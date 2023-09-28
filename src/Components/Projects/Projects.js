@@ -43,7 +43,7 @@ function Projects(props) {
                                     display projects, ongoing projects,completed tasks, ongoing task, and task waiting for review.</p>
                                     <div className='d-flex flex-column justify-content-center align-items-center'>
                                         <div className='my-2'>
-                                        <a href='https://buddy-chat-project.netlify.app/' target='blank'><button className='btn btn-warning'>Live</button></a>
+                                        <a href='https://project-tool-project.netlify.app/' target='blank'><button className='btn btn-warning'>Live</button></a>
                                     </div>
                                     <div className='my-2'>
                                     <a href='https://github.com/selvakumar-MERN/Buddy-chat-frontend.git' target='blank'><button className='btn btn-primary'>Font-end code</button></a>
