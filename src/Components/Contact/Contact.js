@@ -1,6 +1,5 @@
 import React from 'react';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faEnvelope, faPhone } from '@fortawesome/free-solid-svg-icons';
+
 
 function Contact(props) {
     return (
@@ -13,10 +12,10 @@ function Contact(props) {
                           <div className='card h-100' >
                             <div className='d-flex flex-column justify-content-center align-items-center' style={{fontSize:'1.1rem'}}>
                                      <div>
-                                        <FontAwesomeIcon icon={faPhone} className='pr-1' />:<span  className='p-2'>+91-6381502935</span>
+                                        <span  className='p-2'>+91-6381502935</span>
                                      </div>
                                      <div>
-                                        <FontAwesomeIcon icon={faEnvelope} className='pr-1'/>:<span  className='p-2'>selva81222@gmail.com</span>
+                                        <span  className='p-2'>selva81222@gmail.com</span>
                                      </div>
                             </div>
                                      
