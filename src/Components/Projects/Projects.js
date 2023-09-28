@@ -46,7 +46,7 @@ function Projects(props) {
                                         <a href='https://project-tool-project.netlify.app/' target='blank'><button className='btn btn-warning'>Live</button></a>
                                     </div>
                                     <div className='my-2'>
-                                    <a href='https://github.com/selvakumar-MERN/Buddy-chat-frontend.git' target='blank'><button className='btn btn-primary'>Font-end code</button></a>
+                                    <a href='https://github.com/selvakumar-MERN/Project-Tool-frontend.git' target='blank'><button className='btn btn-primary'>Font-end code</button></a>
                                     </div>
                                     <div className='my-2'>
                                     <a href='https://github.com/selvakumar-MERN/Project-Tool-Backend.git' target='blank'><button className='btn btn-primary'>Back-end code</button></a>
@@ -71,13 +71,13 @@ function Projects(props) {
                                     razor pay  </p>
                                     <div className='d-flex flex-column justify-content-center align-items-center'>
                                         <div className='my-2'>
-                                        <a href='https://buddy-chat-project.netlify.app/' target='blank'><button className='btn btn-warning'>Live</button></a>
+                                        <a href='https://travellog-project.netlify.app/' target='blank'><button className='btn btn-warning'>Live</button></a>
                                     </div>
                                     <div className='my-2'>
-                                    <a href='https://github.com/selvakumar-MERN/Buddy-chat-frontend.git' target='blank'><button className='btn btn-primary'>Font-end code</button></a>
+                                    <a href='https://github.com/selvakumar-MERN/Travellog-frontend.git' target='blank'><button className='btn btn-primary'>Font-end code</button></a>
                                     </div>
                                     <div className='my-2'>
-                                    <a href='https://github.com/selvakumar-MERN/Project-Tool-Backend.git' target='blank'><button className='btn btn-primary'>Back-end code</button></a>
+                                    <a href='https://github.com/selvakumar-MERN/Travellog-backend.git' target='blank'><button className='btn btn-primary'>Back-end code</button></a>
                                     </div>
                                     </div>
                                     
