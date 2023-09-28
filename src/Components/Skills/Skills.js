@@ -1,7 +1,5 @@
 import React from 'react';
 import'./Skills.css';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faBootstrap, faCss3Alt, faHtml5, faJs, faNodeJs, faReact } from '@fortawesome/free-brands-svg-icons';
 import { TbBrandMysql } from "react-icons/tb";
 import { BiLogoMongodb } from "react-icons/bi";
 import { SiExpress } from "react-icons/si";
@@ -22,11 +20,11 @@ function Skills(props) {
                                 </div>
                                 <div className='card-body'>
                                     <ul style={{textAlign:'center',listStyle:'none' , fontSize:'1.5rem'}} >
-                                        <li><FontAwesomeIcon icon={faHtml5} style={{color:'#e34f26'}}  /><span>HTML</span> </li>
-                                        <li><FontAwesomeIcon icon={faCss3Alt} /><span>CSS</span></li>
-                                        <li><FontAwesomeIcon icon={faReact} style={{color:'#00d8ff'}}/><span> React</span></li>
-                                        <li><FontAwesomeIcon icon={faJs} style={{color:'#f7df1e'}}/><span>Javascript</span></li>
-                                        <li><FontAwesomeIcon icon={faBootstrap} style={{color:'darkblue'}}/><span>Bootstrap</span></li>
+                                        <li><span>HTML</span> </li>
+                                        <li><span>CSS</span></li>
+                                        <li><span> React</span></li>
+                                        <li><span>Javascript</span></li>
+                                        <li><span>Bootstrap</span></li>
                                     </ul>
 
                                 </div>
@@ -42,7 +40,7 @@ function Skills(props) {
                             </div>
                             <div className='card-body' >
                                     <ul style={{listStyle:'none', textAlign:'center', fontSize:'1.5rem'}}  >
-                                        <li><FontAwesomeIcon icon={faNodeJs} /><span>NodeJs</span></li>
+                                        <li><span>NodeJs</span></li>
                                         <li><SiExpress/> Express</li>
                                         <li><BiLogoMongodb/>MongoDB</li>
                                         <li><TbBrandMysql/>MySQL</li>
