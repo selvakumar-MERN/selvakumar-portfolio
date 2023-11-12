@@ -1,0 +1,12 @@
+.card-body ul li{
+    margin: 1rem 1rem;
+}
+ul li span{
+    padding: 0.4rem;
+}
+
+#skills .card{
+    border: none;
+    border-radius: 15px 60px 30px 5px;
+    
+}

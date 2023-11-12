@@ -1,0 +1,11 @@
+.navbar{
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+}
+
+#navbarNavDropdown ul li span,h2{
+    color: black;
+    font-weight: bold;
+    font-family: sans-serif;
+}
