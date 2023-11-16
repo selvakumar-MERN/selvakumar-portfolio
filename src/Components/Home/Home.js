@@ -38,7 +38,7 @@ function Home(props) {
                 </div>
                 <div className='mt-4'>
                    <a href='https://github.com/selvakumar-MERN' target='blank'><i class="fa fa-github fa-2x" aria-hidden="true"></i> </a>
-                   <a href='https://wwww.linkedin.com/in/selvakumar-k-49bb2a11b' target='blank'> <i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i></a>
+                   <a href='https://www.linkedin.com/in/selvakumar-k-49bb2a11b' target='blank'> <i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i></a>
                    <a href='mailto:selva81222@gmail.com' target='blank'> <i class="fa fa-envelope fa-2x" aria-hidden="true"></i></a>
                 </div>
                 </div>
