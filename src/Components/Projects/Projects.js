@@ -35,26 +35,27 @@ function Projects(props) {
                     </div>
                     <div className='col-md-6 my-3 '>
                     <div class="card h-100 " >
-                            <img class="card-img-top" src="project2.PNG" height={'300px'} width={"300px"} alt="project2"/>
+                             <img class="card-img-top" src='project3.PNG' height={"300px"} width={"300px"} alt="project3"/>
                                 <div class="card-body">
-                                    <h5 class="card-title">Project Management Tool</h5>
-                                    <p class="card-text" style={{color:'black'}}>This full stack application allow us to create projects and adding registered users as teams memebers,
-                                    Assign regular task to team members and team members can submit the task for admin review, Seperate dashboard is provided to 
-                                    display projects, ongoing projects,completed tasks, ongoing task, and task waiting for review.</p>
+                                    <h5 class="card-title">Hotel Booking</h5>
+                                    <p class="card-text" style={{color:'black'}}>This full stack application is used to book hotel tickets for ooty,
+                                    user registeration and login authentication is provided, User can view hotel and the prices, and also can pay using 
+                                    razor pay  </p>
                                     <div className='d-flex flex-column justify-content-center align-items-center'>
                                         <div className='my-2'>
-                                        <a href='https://buddy-chat-project.netlify.app/' target='blank'><button className='btn btn-warning'>Live</button></a>
+                                        <a href='https://travellog-project.netlify.app/' target='blank'><button className='btn btn-warning'>Live</button></a>
                                     </div>
                                     <div className='my-2'>
-                                    <a href='https://github.com/selvakumar-MERN/Buddy-chat-frontend.git' target='blank'><button className='btn btn-primary'>Font-end code</button></a>
+                                    <a href='https://github.com/selvakumar-MERN/Travellog-frontend.git' target='blank'><button className='btn btn-primary'>Font-end code</button></a>
                                     </div>
                                     <div className='my-2'>
-                                    <a href='https://github.com/selvakumar-MERN/Project-Tool-Backend.git' target='blank'><button className='btn btn-primary'>Back-end code</button></a>
+                                    <a href='https://github.com/selvakumar-MERN/Travellog-backend.git' target='blank'><button className='btn btn-primary'>Back-end code</button></a>
                                     </div>
                                     </div>
                                     
                                     
                                 </div>
+                            
                         </div>
 
                     </div>
@@ -63,18 +64,18 @@ function Projects(props) {
                 <div className='row mt-3'>
                     <div className='col-md-6 my-3'>
                     <div class="card h-100" >
-                            <img class="card-img-top" src='project3.PNG' height={"300px"} width={"300px"} alt="project3"/>
+                           <img class="card-img-top" src="project2.PNG" height={'300px'} width={"300px"} alt="project2"/>
                                 <div class="card-body">
-                                    <h5 class="card-title">Hotel Booking</h5>
-                                    <p class="card-text" style={{color:'black'}}>This full stack application is used to book hotel tickets for ooty,
-                                    user registeration and login authentication is provided, User can view hotel and the prices, and also can pay using 
-                                    razor pay  </p>
+                                    <h5 class="card-title">Project Management Tool</h5>
+                                    <p class="card-text" style={{color:'black'}}>This full stack application allow us to create projects and adding registered users as teams memebers,
+                                    Assign regular task to team members and team members can submit the task for admin review, Seperate dashboard is provided to 
+                                    display projects, ongoing projects,completed tasks, ongoing task, and task waiting for review.</p>
                                     <div className='d-flex flex-column justify-content-center align-items-center'>
                                         <div className='my-2'>
-                                        <a href='https://buddy-chat-project.netlify.app/' target='blank'><button className='btn btn-warning'>Live</button></a>
+                                        <a href='https://project-tool-project.netlify.app/' target='blank'><button className='btn btn-warning'>Live</button></a>
                                     </div>
                                     <div className='my-2'>
-                                    <a href='https://github.com/selvakumar-MERN/Buddy-chat-frontend.git' target='blank'><button className='btn btn-primary'>Font-end code</button></a>
+                                    <a href='https://github.com/selvakumar-MERN/Project-Tool-frontend.git' target='blank'><button className='btn btn-primary'>Font-end code</button></a>
                                     </div>
                                     <div className='my-2'>
                                     <a href='https://github.com/selvakumar-MERN/Project-Tool-Backend.git' target='blank'><button className='btn btn-primary'>Back-end code</button></a>
