@@ -113,10 +113,37 @@ function Projects(props) {
                     </div>
 
                 </div>
+             <div className='row mt-3 '>
+                    <div className='col-md-6 my-3 '>
+                    <div class="card h-100"  >
+                            <img class="card-img-top" src='project5.PNG' height={"300px"} width={"300px"} alt="project5"/>
+                                <div class="card-body">
+                                    <h5 class="card-title">E-Commerce</h5>
+                                    <p class="card-text" style={{color:'black'}}>This E-commerce full stack application allow us to order products. Both users and admin login is provided
+                                    ,Users can able to add product to the cart and can check out the product with an intergrated razor pay payment system. Search bar allows to search the product category wise. Also provided with Filter by price, sort by rating and sorting vased on product price,popularity.
+                                    Used redis for maintaining the login session efficiently. Admin portal also provided to add products, edit products and also deleting the products.</p>
+                                    <div className='d-flex flex-column justify-content-center align-items-center'>
+                                        <div className='my-2'>
+                                        <a href='https://e-commerce-project07.netlify.app/' target='blank'><button className='btn btn-warning'>Live</button></a>
+                                    </div>
+                                    <div className='my-2'>
+                                    <a href='https://github.com/selvakumar-MERN/E-commerce-Frontend.git' target='blank'><button className='btn btn-primary'>Font-end code</button></a>
+                                    </div>
+                                    <div className='my-2'>
+                                    <a href='https://github.com/selvakumar-MERN/E-commerce-Backend.git' target='blank'><button className='btn btn-primary'>Back-end code</button></a>
+                                    </div>
+                                    </div>
+                                    
+                                    
+                                </div>
+                        </div>
+
+                    </div>
 
             </div>
 
         </div>
+</div>
     );
 }
 
